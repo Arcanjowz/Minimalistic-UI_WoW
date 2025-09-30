@@ -27,6 +27,7 @@ My profile features
 How to download?
 
 -> Install the WTF folder [I recommend backing up your original WTF folder] and rename the folders inside it.
+-> Link to download - https://anonfile.co/HzO2ls9dZ7IZtkF/file 
 
 -> Install the addons [I recommend backing up your addons]. You can choose which addons you want for this part, but I recommend doing this after starting at least once.
 
