@@ -1,3 +1,5 @@
+Preview on Images!
+
 Clean interface focused on WoW clients (3.3.5a), specifically for WoW Epoch servers. I DO NOT RECOMMEND IT FOR OTHER SERVERS, as ElvUI is a version specific to this app.
 
 My profile features
@@ -31,3 +33,8 @@ How to download?
 AFTER DOING EVERYTHING CORRECTLY
 
 -> Enter the game, open the ElvUI tab, and go to Profiles. My profile should be there if it doesn't load automatically.
+
+EXTRAS
+
+To update some of the addons automatically, use this -> https://gitlab.com/woblight/GitAddonsManager
+To have a beatiful and modern game [for EPOCH SERVERS] -> https://github.com/TVBrowntown/epochHD
