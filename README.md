@@ -40,3 +40,5 @@ EXTRAS
 To update some of the addons automatically, use this -> https://gitlab.com/woblight/GitAddonsManager
 
 To have a beautiful and a modern game [for EPOCH SERVERS] -> https://github.com/TVBrowntown/epochHD
+
+My WeakAuras setup [only for rogues] I FIXED THE TICK ENERGY! -> https://pastebin.com/pwwQDDgQ
